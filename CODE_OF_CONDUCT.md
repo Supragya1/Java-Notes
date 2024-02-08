@@ -43,15 +43,15 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 If you have questions or concerns about this Code of Conduct, please contact:
 
-- [Supragya1](https://github.com/Supragya1) (GitHub Username)
-- [ssg.gandotra@gmail.com](mailto:ssg.gandotra@gmail.com) (Email)
+- [Supragya1](https://github.com/Supragya1)
+- [ssg.gandotra@gmail.com](mailto:ssg.gandotra@gmail.com)
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at :
 
-- [Supragya1](https://github.com/Supragya1) (GitHub Username)
-- [ssg.gandotra@gmail.com](mailto:ssg.gandotra@gmail.com) (Email)
+- [Supragya1](https://github.com/Supragya1)
+- [ssg.gandotra@gmail.com](mailto:ssg.gandotra@gmail.com)
 
  The project team will review and investigate all complaints and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
