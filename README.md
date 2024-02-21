@@ -55,7 +55,7 @@ This repository serves as a comprehensive collection of Java notes focusing on C
 
 2. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/java-notes-repo.git
+    git clone https://github.com/Supragya1/java-notes-repo.git
     ```
 
 3. **Navigate to the Repository:**
